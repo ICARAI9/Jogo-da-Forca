@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: black;
+}
+
+header {
+    width: 100%; /* Garante que o header cubra toda a largura da tela */
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+h2, p {
+    text-align: center;
+    color: #fff;
+}
+
+h3, p {
+    text-align: center;
+    color: #fff;
+}
+
+.container {
+    width: 100%; /* Garante que o container cubra toda a largura da tela */
+    overflow: hidden; /* Garante que não haja rolagem dentro do container */
+}
+
+.DEXTER-logo {
+    width: 1000px; 
+    height: 300px;
+}
+
+.btn-play {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 100px;
+    transition: background-color 0.3s;
+    margin-bottom: 30px;
+}
+
